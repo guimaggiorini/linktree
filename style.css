@@ -133,6 +133,11 @@ button:before {
   transition: 500ms;
 }
 
+spotify {
+width: auto;
+  height: auto;
+}
+
 button:hover {
   background-position: right;
 }
