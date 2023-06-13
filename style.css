@@ -32,10 +32,6 @@ img {
   transition: 200ms;
 }
 
-img:hover {
-  scale: 1.1x;
-}
-
 h1 {
   text-align: center;
   letter-spacing: 0.5px;
@@ -56,7 +52,6 @@ a2 {
   color: #cacaca;
   transition: 0.4s;
   display: inline-block;
-  user-select: none;
 }
 
 a3 {
